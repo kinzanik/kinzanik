@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hi👋 I'm kinzanik.</h1>
+<h1 align="center">Hi👋 I'm kinzanik. 16 y.o.</h1>
 
 ###
 
@@ -50,9 +50,9 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://leetcard.jacoblin.cool/kinzanik?border=0&radius=20" height="150" alt="languages graph"  />
-</div>
+</div> -->
 
 ###
 
