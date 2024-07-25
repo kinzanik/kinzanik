@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm an aspiring fullstack developer💻. I have been in IT for 2+ years. Graduated with honors python courses from Yandex Lyceum. About work write to</p>
+<p align="left">I'm an aspiring fullstack developer💻. I have been in IT for 2+ years. Graduated with honors python courses from Yandex Lyceum. About work write to:</p>
 <a href="https://t.me/psychokinzashower" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </a>
