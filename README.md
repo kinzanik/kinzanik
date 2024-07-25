@@ -30,6 +30,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="qt logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=qt" height="40" alt="qt logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
