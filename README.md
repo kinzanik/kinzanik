@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hi👋 I'm kinzanik. 17 y.o.</h1>
+<h1 align="center">Hi👋 I'm hoarahlowx. 17 y.o.</h1>
 
 ###
 
